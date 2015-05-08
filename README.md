@@ -1,4 +1,4 @@
-# OneDrive API tutorial
+# OneDrive Java tutorial
 
 This document explains how to use the Java/Jersey based OneDrive API to talk with the free OneDrive RESTful services
 and is part of the tutorial series (http://www.tjeerd.net/2014/08/23/onedrive-api-restful-programming-in-java/ and
